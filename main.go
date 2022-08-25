@@ -1,6 +1,6 @@
 package main
 
 func main(){
-    println("gcin v1.1.0")
+    println("gcin v1.1.1")
 }
 
