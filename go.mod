@@ -1,3 +1,3 @@
-module github.com/gavinzhudev/gcin/v3
+module github.com/gavinzhudev/gcin/v4
 
 go 1.18
